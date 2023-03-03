@@ -28,6 +28,8 @@
 </a>
 </p>
 
+<p align="center">
 <a href="https://github.com/cleveradssolutions/App-ads.txt">
 <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cleveradssolutions/App-ads.txt/master/Shield.json&style=flat-square&logo=adguard&logoColor=white" alt="App-ads.txt">
 </a>
+</p>
