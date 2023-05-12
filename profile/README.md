@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/github/v/release/solar2d/com.cleveradssolutions-plugin.cas?style=for-the-badge&logoColor=white&logo=coronaengine&label=Solar%202D" alt="Solar 2D"/>
 </a>
 <a href="https://github.com/cleveradssolutions/CAS-Construct">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=construct3&label=Construct%203&message=Soon&logoColor=white" alt="Construct" />
+<img src="https://img.shields.io/github/v/release/CleverAdsSolutions/CAS-Construct?style=for-the-badge&logo=construct3&label=Construct&logoColor=white" alt="Construct" />
 </a>
 </p>
 
