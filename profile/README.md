@@ -17,6 +17,9 @@
 <a href="https://github.com/cleveradssolutions/CAS-Unreal">
 <img src="https://img.shields.io/github/v/release/CleverAdsSolutions/CAS-Unreal?style=for-the-badge&logo=unreal-engine&label=Unreal" alt="Unreal Engine" />
 </a>
+<a href="https://github.com/cleveradssolutions/CAS-Flutter">
+<img src="https://img.shields.io/github/v/release/CleverAdsSolutions/CAS-Flutter?style=for-the-badge&logo=flutter&label=Flutter" alt="Flutter" />
+</a>
 <a href="https://socket.dev/npm/package/@cleveradssolutions/cas.cordova.base">
 <img src="https://img.shields.io/npm/v/@cleveradssolutions/cas.cordova.base?style=for-the-badge&color=blue&logo=apache-cordova&label=Cordova" alt="Cordova" />
 </a>
