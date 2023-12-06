@@ -38,4 +38,7 @@
 <a href="https://github.com/cleveradssolutions/App-ads.txt">
 <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cleveradssolutions/App-ads.txt/master/Shield.json&style=flat-square&logo=adguard&logoColor=white" alt="App-ads.txt">
 </a>
+<a href="https://github.com/cleveradssolutions/CAS-iOS/blob/master/SKAdNetworkItems.xml">
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cleveradssolutions/CAS-iOS/master/SKAdNetowrksShield.json&style=flat-square&logo=adguard&logoColor=white" alt="SKAdNetworkIDs">
+</a>
 </p>
