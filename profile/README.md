@@ -20,9 +20,6 @@
 <a href="https://github.com/cleveradssolutions/CAS-Flutter">
 <img src="https://img.shields.io/github/v/release/CleverAdsSolutions/CAS-Flutter?style=for-the-badge&logo=flutter&label=Flutter" alt="Flutter" />
 </a>
-<a href="https://github.com/cleveradssolutions/CAS-ReactNative">
-<img src="https://img.shields.io/npm/v/react-native-cas?style=for-the-badge&logoColor=white&logo=react&label=React Native" alt="React Native" />
-</a>
 <a href="https://socket.dev/npm/package/@cleveradssolutions/cas.cordova.base">
 <img src="https://img.shields.io/npm/v/@cleveradssolutions/cas.cordova.base?style=for-the-badge&color=blue&logo=apache-cordova&label=Cordova" alt="Cordova" />
 </a>
