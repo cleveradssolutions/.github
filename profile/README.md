@@ -17,12 +17,16 @@
 <a href="https://github.com/cleveradssolutions/CAS-Unreal">
 <img src="https://img.shields.io/github/v/release/CleverAdsSolutions/CAS-Unreal?style=for-the-badge&logo=unreal-engine&label=Unreal" alt="Unreal Engine" />
 </a>
+<br>
+
 <a href="https://github.com/cleveradssolutions/CAS-Flutter">
 <img src="https://img.shields.io/github/v/release/CleverAdsSolutions/CAS-Flutter?style=for-the-badge&logo=flutter&label=Flutter" alt="Flutter" />
 </a>
 <a href="https://socket.dev/npm/package/@cleveradssolutions/cas.cordova.base">
 <img src="https://img.shields.io/npm/v/@cleveradssolutions/cas.cordova.base?style=for-the-badge&color=blue&logo=apache-cordova&label=Cordova" alt="Cordova" />
 </a>
+<br>
+
 <a href="https://github.com/solar2d/com.cleveradssolutions-plugin.cas">
 <img src="https://img.shields.io/github/v/release/solar2d/com.cleveradssolutions-plugin.cas?style=for-the-badge&logoColor=white&logo=coronaengine&label=Solar%202D" alt="Solar 2D"/>
 </a>
@@ -31,7 +35,7 @@
 </a>
 </p>
 
-<h4><p align="center">Community plugins</p></h4>
+<h4><p align="center">Community-Contributed Plugins</p></h4>
 <p align="center">
 <a href="https://github.com/damnedpie/godot-cas">
 <img alt="Defold" src="https://img.shields.io/badge/Godot-by_damnedpie-darkturquoise%20?style=for-the-badge&logo=godotengine&logoColor=white">
@@ -41,7 +45,7 @@
 </a>
 </p>
 
-<h3><p align="center">App configurations</p></h3>
+<h3><p align="center">Configuration Files</p></h3>
 <p align="center">
 <a href="https://github.com/cleveradssolutions/App-ads.txt">
 <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cleveradssolutions/App-ads.txt/master/Shield.json&style=flat-square&logo=adguard&logoColor=white" alt="App-ads.txt">
