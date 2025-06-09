@@ -33,6 +33,9 @@
 
 <h4><p align="center">Community plugins</p></h4>
 <p align="center">
+<a href="https://github.com/damnedpie/godot-cas">
+<img alt="Defold" src="https://img.shields.io/badge/Godot-by_damnedpie-darkturquoise%20?style=for-the-badge&logo=godotengine&logoColor=white">
+</a>
 <a href="https://github.com/Lerg/extension-cas">
 <img alt="Defold" src="https://img.shields.io/badge/Defold-by_Lerg-darkturquoise%20?style=for-the-badge&logo=flathub">
 </a>
@@ -44,6 +47,6 @@
 <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cleveradssolutions/App-ads.txt/master/Shield.json&style=flat-square&logo=adguard&logoColor=white" alt="App-ads.txt">
 </a>
 <a href="https://github.com/cleveradssolutions/CAS-iOS/blob/master/SKAdNetworkItems.xml">
-<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cleveradssolutions/CAS-iOS/master/SKAdNetowrksShield.json&style=flat-square&logo=adguard&logoColor=white" alt="SKAdNetworkIDs">
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cleveradssolutions/CAS-iOS/master/SKAdNetowrksShield.json&style=flat-square&logo=xcode&logoColor=white" alt="SKAdNetworkIDs">
 </a>
 </p>
